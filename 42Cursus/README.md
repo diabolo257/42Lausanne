@@ -9,3 +9,4 @@
 | [push_swap](https://github.com/diabolo257/42Lausanne/tree/main/42Cursus/push_swap)         | :construction:     | C        | `Algorithm` `Stack` `Sort`                 | :x:   |          |
 | [minitalk](https://github.com/diabolo257/42Lausanne/tree/main/42Cursus/minitalk)           | :white_check_mark: | C        | `Signals` `Processes` `Bits manipulation ` | 125%  |          |
 | [Philosophers](https://github.com/diabolo257/42Lausanne/tree/main/42Cursus/Philosophers)   | :construction:     | C        | `Thread` `Mutex`                           | :x:   |          |
+CPP : http://www.staroceans.org/e-book/ATourofC++.pdf
